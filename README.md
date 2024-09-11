@@ -1,4 +1,4 @@
-# How To start BE and FE
+# How to start BE and FE
 
 For BE: npm start.
 
